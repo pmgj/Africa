@@ -1,0 +1,26 @@
+div {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 300px;
+}
+
+td,
+th {
+    border: 1px solid black;
+}
+
+th,
+caption {
+    background-color: gray;
+}
+
+caption {
+    font-weight: bold;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}

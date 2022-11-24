@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <description>Population and area (in km²) of african countries. Data from 2012.</description>
+    <country id="Algeria">
+        <pop>37367226</pop>
+        <area>2381740</area>
+    </country>
+    <country id="Angola">
+        <pop>18056072</pop>
+        <area>1246700</area>
+    </country>
+    <country id="Benin">
+        <pop>9598787</pop>
+        <area>112620</area>
+    </country>
+    <country id="Botswana">
+        <pop>2098018</pop>
+        <area>600370</area>
+    </country>
+    <country id="Burkina_Faso">
+        <pop>17275115</pop>
+        <area>274200</area>
+    </country>
+    <country id="Burundi">
+        <pop>10557259</pop>
+        <area>27830</area>
+    </country>
+    <country id="Cameroon">
+        <pop>20129878</pop>
+        <area>475440</area>
+    </country>
+    <country id="Cape_Verde">
+        <pop>523568</pop>
+        <area>4033</area>
+    </country>
+    <country id="Central_African_Republic">
+        <pop>5057208</pop>
+        <area>622984</area>
+    </country>
+    <country id="Chad">
+        <pop>10975648</pop>
+        <area>1284000</area>
+    </country>
+    <country id="Comoro_Islands">
+        <pop>737284</pop>
+        <area>2170</area>
+    </country>
+    <country id="Cote_d'Ivoire">
+        <pop>21952093</pop>
+        <area>322460</area>
+    </country>
+    <country id="Democratic_Republic_of_the_Congo">
+        <pop>73599190</pop>
+        <area>2345410</area>
+    </country>
+    <country id="Djibouti">
+        <pop>774389</pop>
+        <area>23000</area>
+    </country>
+    <country id="Egypt">
+        <pop>83688164</pop>
+        <area>1001450</area>
+    </country>
+    <country id="Equatorial_Guinea">
+        <pop>685991</pop>
+        <area>28051</area>
+    </country>
+    <country id="Eritrea">
+        <pop>6086495</pop>
+        <area>121320</area>
+    </country>
+    <country id="Ethiopia">
+        <pop>91195675</pop>
+        <area>1127127</area>
+    </country>
+    <country id="Gabon">
+        <pop>1608321</pop>
+        <area>267667</area>
+    </country>
+    <country id="Gambia">
+        <pop>13817479</pop>
+        <area>11300</area>
+    </country>
+    <country id="Ghana">
+        <pop>24652402</pop>
+        <area>239460</area>
+    </country>
+    <country id="Guinea">
+        <pop>10884958</pop>
+        <area>245857</area>
+    </country>
+    <country id="Guinea-Bissau">
+        <pop>1628603</pop>
+        <area>36120</area>
+    </country>
+    <country id="Kenya">
+        <pop>43013341</pop>
+        <area>582650</area>
+    </country>
+    <country id="Lesotho">
+        <pop>1930493</pop>
+        <area>30355</area>
+    </country>
+    <country id="Liberia">
+        <pop>3887886</pop>
+        <area>111370</area>
+    </country>
+    <country id="Libya">
+        <pop>5613380</pop>
+        <area>1759540</area>
+    </country>
+    <country id="Madagascar">
+        <pop>22005222</pop>
+        <area>587040</area>
+    </country>
+    <country id="Malawi">
+        <pop>16323044</pop>
+        <area>118480</area>
+    </country>
+    <country id="Mali">
+        <pop>15494466</pop>
+        <area>1240000</area>
+    </country>
+    <country id="Mauritania">
+        <pop>3359185</pop>
+        <area>1030700</area>
+    </country>
+    <country id="Mauritius">
+        <pop>1313095</pop>
+        <area>3366</area>
+    </country>
+    <country id="Mayotte">
+        <pop>212645</pop>
+        <area>374</area>
+    </country>
+    <country id="Morocco">
+        <pop>32309239</pop>
+        <area>446550</area>
+    </country>
+    <country id="Mozambique">
+        <pop>23515934</pop>
+        <area>801590</area>
+    </country>
+    <country id="Namibia">
+        <pop>2165828</pop>
+        <area>825418</area>
+    </country>
+    <country id="Niger">
+        <pop>16344687</pop>
+        <area>1267000</area>
+    </country>
+    <country id="Nigeria">
+        <pop>170123740</pop>
+        <area>923768</area>
+    </country>
+    <country id="Republic_of_the_Congo">
+        <pop>4366266</pop>
+        <area>342000</area>
+    </country>
+    <country id="Reunion">
+        <pop>840974</pop>
+        <area>2511</area>
+    </country>
+    <country id="Rwanda">
+        <pop>11689696</pop>
+        <area>26338</area>
+    </country>
+    <country id="Sao_Tome_and_Principe">
+        <pop>183176</pop>
+        <area>1001</area>
+    </country>
+    <country id="Senegal">
+        <pop>12969606</pop>
+        <area>196190</area>
+    </country>
+    <country id="Seychelles">
+        <pop>90024</pop>
+        <area>455</area>
+    </country>
+    <country id="Sierra_Leone">
+        <pop>5485998</pop>
+        <area>71740</area>
+    </country>
+    <country id="Somalia">
+        <pop>10085638</pop>
+        <area>637657</area>
+    </country>
+    <country id="South_Africa">
+        <pop>48810427</pop>
+        <area>1219912</area>
+    </country>
+    <country id="Sudan">
+        <pop>34206710</pop>
+        <area>2505810</area>
+    </country>
+    <country id="Swaziland">
+        <pop>1386914</pop>
+        <area>17363</area>
+    </country>
+    <country id="Togo">
+        <pop>6961049</pop>
+        <area>56785</area>
+    </country>
+    <country id="Tunisia">
+        <pop>10732900</pop>
+        <area>163610</area>
+    </country>
+    <country id="Uganda">
+        <pop>33640833</pop>
+        <area>236040</area>
+    </country>
+    <country id="United_Republic_of_Tanzania">
+        <pop>46912768</pop>
+        <area>45040</area>
+    </country>
+    <country id="Zambia">
+        <pop>1840454</pop>
+        <area>752614</area>
+    </country>
+    <country id="Zimbabwe">
+        <pop>12619600</pop>
+        <area>390580</area>
+    </country>
+    <country id="Western_Sahara">
+        <pop>522928</pop>
+        <area>266000</area>
+    </country>
+</root>
